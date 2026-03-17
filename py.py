@@ -1,10 +1,5 @@
-a='강아지'
+<<<<<<< HEAD
+=======
+a='강아지
 print(a)
-print("new")
-print("new")
-print("new")
-print("new")
-print("new")
-print("new")
-print("new")
-print("new")
+>>>>>>> parent of cf34ac1 (First)
