@@ -1,2 +1,10 @@
-a='강아지
+a='강아지'
 print(a)
+print("new")
+print("new")
+print("new")
+print("new")
+print("new")
+print("new")
+print("new")
+print("new")
